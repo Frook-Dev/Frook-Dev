@@ -8,6 +8,7 @@
 
 <p align="center">
    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" alt="HTML5">
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua.svg" width="50" alt="HTML5">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="50" alt="CSS3">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="50" alt="JavaScript">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="50" alt="Ts">
