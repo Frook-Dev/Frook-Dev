@@ -1,4 +1,5 @@
-<h1 align="center"><b>Software Developer</b> </h1>
+<h1 align="center"><b>Software Developer and Project Manager
+</b> </h1>
 
 
 <br>
