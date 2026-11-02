@@ -1,4 +1,4 @@
-<h1 align="center"><b>Software Engineer </b>| Specialized in Video Games & Web Services
+<h1 align="center"><b>Software Developer
 </b> </h1>
 
 
