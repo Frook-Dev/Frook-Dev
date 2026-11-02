@@ -1,4 +1,4 @@
-<h1 align="center"><b>Software Developer and Project Manager
+<h1 align="center"><b>Software Engineer | Specialized in Video Games & Web Services
 </b> </h1>
 
 
